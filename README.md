@@ -2,7 +2,7 @@
 PolyH - Polymorphic Helpers
 
 # VirtualBase
-Curiously recurring template pattern solution without suffering from diamond problem and supporting multilevel inheritance.
+Curiously recurring template pattern solution with supporting multilevel inheritance and without suffering from diamond problem.
 
 ```cpp
 
